@@ -1,4 +1,4 @@
-module github.com/mattermost/mattermost/server/v8
+module github.com/Druidis4e/mattermost/server/v8
 
 go 1.22.0
 
